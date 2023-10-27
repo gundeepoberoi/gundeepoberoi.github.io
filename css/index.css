@@ -886,6 +886,10 @@ padding-bottom: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.portfolio-text:hover{
+    background: #00ff0030;
+    transition: all .8s ease;
+}
 
 .portfolio-text h2{
     font-size: 35px;
